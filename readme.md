@@ -2,6 +2,7 @@ Facebook Python SDK
 ====
 
 [Our other repo](https://bitbucket.org/basya/django-oauth/wiki/Home)
+[Our tumblar](http://basyab.tumblr.com/)
 
 This client library is designed to support the
 [Facebook Graph API](http://developers.facebook.com/docs/api) and the official
